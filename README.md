@@ -45,9 +45,10 @@ This project is a web application that allows users to perform Google searches a
 
 4. Open the browser and navigate to `http://127.0.0.1:5000/` to use the application.
 
-###**Screenshots**
+### **Screenshots**
 **interface**
-![Screenshot 2024-12-13 221129](https://github.com/user-attachments/assets/f4ad6e15-d828-410f-a708-3a7341e566fb)
+![image](https://github.com/user-attachments/assets/87d37e99-5770-4dd9-b710-1cda4f0d83fd)
+
 
 
 ### **Use Cases**  
