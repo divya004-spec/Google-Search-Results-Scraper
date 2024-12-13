@@ -43,7 +43,12 @@ This project is a web application that allows users to perform Google searches a
    python app.py  
    ```  
 
-4. Open the browser and navigate to `http://127.0.0.1:5000/` to use the application.  
+4. Open the browser and navigate to `http://127.0.0.1:5000/` to use the application.
+
+###**Screenshots**
+**interface**
+![Screenshot 2024-12-13 221129](https://github.com/user-attachments/assets/f4ad6e15-d828-410f-a708-3a7341e566fb)
+
 
 ### **Use Cases**  
 - **SEO Analysis**: Analyze top search results to identify trends and optimize content.  
